@@ -3,3 +3,5 @@
 
 def invert(lst):
     return [-num for num in lst]
+
+# Выполнено
